@@ -2,7 +2,6 @@ import Thumbnail from "./Thumbnail";
 import FlipMove from 'react-flip-move';
 
 function Results({ results }) {
-    console.log(results)
     return (
         <FlipMove className="px-5 my-10
                         sm:grid
